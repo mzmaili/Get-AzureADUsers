@@ -163,6 +163,8 @@ Function ConnecttoAzureAD{
 
 }
 
+ConnecttoAzureAD
+
 ''
 '========================================================'
 Write-Host '            Azure AD Users Last SignIn Report          ' -ForegroundColor Green 
